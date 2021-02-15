@@ -21,10 +21,13 @@ Preview the prototype.
 ![output](./static/img/Design.png)
 ## WIREFRAME:
 
-![output](./static/img/Prototype.png)
+![output](./static/img/Wireframe.png)
 ## PROTOTYPE:
 
-![output](./static/img/Wireframe.png)
+![output](./static/img/prototype1.png)
+![output](./static/img/prototype2.png)
+![output](./static/img/prototype3.png)
+![output](./static/img/prototype4.png)
 ## RESULT:
 
 Thus a webstie is designed for Silicon Corp Limited
